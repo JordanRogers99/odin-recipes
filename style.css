@@ -1,6 +1,7 @@
 * {
     background-color: rgb(242, 162, 169);
-
+    width: auto;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 .first {
@@ -13,6 +14,7 @@
     font-size: 45px;
     margin-bottom: -10px;
     text-align: center;
+    border: 3px;
 }
 
 .p1 {
@@ -28,22 +30,14 @@
     text-align: center;
 }
 
-.photo-pasta {
+.photo-pasta .photo-chili .photo-steak {
     border-color: black;
     border-radius: 12px;
 }
-
-.photo-chili {
-    border-color: black;
-    border-radius: 12px;
-}
-
-.photo-steak {
-    border-color: black;
-    border-radius: 12px;
 }
 .para1 {
     text-align: center;
+    
 }
 
 .para2 {
