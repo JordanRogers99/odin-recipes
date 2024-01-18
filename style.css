@@ -1,0 +1,14 @@
+.title {
+    background-color: aquamarine;
+    width: 350px;
+    height: 350px;
+    font-size: 85px;
+    border: 100px;
+    border-color: black;
+}
+
+.p1 {
+    background-color: aquamarine;
+    font-weight: 900;
+    
+}
