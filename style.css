@@ -1,5 +1,10 @@
 * {
     background-color: rgb(242, 162, 169);
+
+}
+
+.first {
+    background: #e3f4ff;
 }
 
 .title {
@@ -24,5 +29,31 @@
 }
 
 .photo-pasta {
-    
+    border-color: black;
+    border-radius: 12px;
+}
+
+.photo-chili {
+    border-color: black;
+    border-radius: 12px;
+}
+
+.photo-steak {
+    border-color: black;
+    border-radius: 12px;
+}
+.para1 {
+    text-align: center;
+}
+
+.para2 {
+    text-align: center;
+}
+
+.links {
+    text-align: center;
+}
+
+div {
+    text-align: center;
 }
