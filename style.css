@@ -1,5 +1,5 @@
 * {
-    background-color: rgb(202, 247, 232);
+    background-color: rgb(242, 162, 169);
 }
 
 .title {
@@ -7,14 +7,22 @@
     border: -10px;
     font-size: 45px;
     margin-bottom: -10px;
+    text-align: center;
 }
 
 .p1 {
-    background-color: #e3f4ff;
-    margin-top: -100;
-    margin-bottom: -10;
+    background: #e3f4ff;
+    margin-top: 10px;
+    margin-bottom: -10px;
+    text-align: center;
 }
 
 .p3 {
     background: #e3f4ff;
+    margin-top: 10px;
+    text-align: center;
+}
+
+.photo-pasta {
+    
 }
